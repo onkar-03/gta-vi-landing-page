@@ -26,3 +26,12 @@ body {
     @apply flex justify-center items-center;
   }
 }
+
+@layer components {
+  main {
+    @apply w-dvw overflow-x-hidden;
+  }
+  nav {
+    @apply fixed top-0 left-0 w-full flex justify-between items-center md:p-16 p-5 z-[100];
+  }
+}
