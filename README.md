@@ -41,6 +41,36 @@ Built entirely with frontend technologies, it showcases how modern animation and
 
 ---
 
+## 🖼️ Visual Previews
+
+> Scroll through some snapshots of key sections:
+
+### 🎬 Hero Section
+
+![Hero Section](./public/readme/preview1.png)
+
+### 🎥 First Video Transition
+
+![First Video](./public/readme/jason_julia.png)
+
+### 🕵️ Jason Character Reveal
+
+![Jason Section](./public/readme/jason.png)
+
+### 🔥 Lucia Life Story
+
+![Lucia Section](./public/readme/lucia.png)
+
+### 🌅 Postcard Animation
+
+![Postcard Section](./public/readme/postcard.png)
+
+### 🎞️ Final Outro Scroll Video
+
+![Outro Section](./public/readme/final.png)
+
+---
+
 ## 🛠️ Built With
 
 - ⚛️ **React** – SPA structure & component logic
