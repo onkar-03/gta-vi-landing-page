@@ -17,6 +17,8 @@ const App = () => {
       <Hero />
       <FirstVideo />
       <Jason />
+
+      <SecondVideo />
     </main>
   );
 };

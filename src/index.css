@@ -161,6 +161,9 @@ main {
       }
     }
   }
+  .lucia {
+    @apply relative;
+  }
 }
 
 .black-gradient-bg {
