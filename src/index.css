@@ -204,6 +204,17 @@ main {
       }
     }
   }
+  .final {
+    @apply relative h-dvh overflow-hidden;
+
+    .final-content {
+      @apply scale-110;
+    }
+  }
+
+  .final-message {
+    @apply absolute w-full h-dvh overflow-hidden z-50 opacity-100;
+  }
 }
 
 .black-gradient-bg {

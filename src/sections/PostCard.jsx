@@ -39,7 +39,7 @@ const PostCard = () => {
           ref={videoRef}
           muted
           playsInline
-          loop
+          autoPlay
           preload='auto'
           src='/videos/postcard-vd.mp4'
         />

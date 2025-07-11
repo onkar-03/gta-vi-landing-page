@@ -3,7 +3,7 @@ import { useGSAP } from '@gsap/react';
 
 const Jason = () => {
   useGSAP(() => {
-    gsap.set('.jason', { marginTop: '-80vh' });
+    gsap.set('.jason', { marginTop: '-100vh' });
 
     gsap
       .timeline({

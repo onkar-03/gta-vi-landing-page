@@ -7,6 +7,7 @@ import Jason from './sections/Jason.jsx';
 import SecondVideo from './sections/SecondVideo.jsx';
 import Lucia from './sections/Lucia.jsx';
 import PostCard from './sections/PostCard.jsx';
+import Final from './sections/Final.jsx';
 
 // Register it once globally
 // This is necessary to use ScrollTrigger in your project
@@ -17,11 +18,15 @@ const App = () => {
     <main>
       <NavBar />
       <Hero />
+
       <FirstVideo />
       <Jason />
+
       <SecondVideo />
       <Lucia />
+
       <PostCard />
+      <Final />
     </main>
   );
 };
