@@ -5,13 +5,13 @@ Inspired by the storytelling and visual momentum of **GTA VI**, this project rei
 
 Built entirely with frontend technologies, it showcases how modern animation and layout tools can deliver a visually immersive web experience.
 
-![GTA VI Hero](./public/readme/preview1.png)
+![GTA VI Hero](./public/readme/preview1.webp)
 
 ---
 
 ## 🚀 Live Demo
 
-[👉 View Demo (Link)](https://gta-vi-landing-page-three.vercel.app/)
+[👉 View Live Demo](https://gta-vi-landing-page-three.vercel.app/)
 
 ---
 
@@ -47,27 +47,27 @@ Built entirely with frontend technologies, it showcases how modern animation and
 
 ### 🎬 Hero Section
 
-![Hero Section](./public/readme/preview1.png)
+![Hero Section](./public/readme/preview1.webp)
 
 ### 🎥 First Video Transition
 
-![First Video](./public/readme/jason_julia.png)
+![First Video](./public/readme/jason_julia.webp)
 
 ### 🕵️ Jason Character Reveal
 
-![Jason Section](./public/readme/jason.png)
+![Jason Section](./public/readme/jason.webp)
 
 ### 🔥 Lucia Life Story
 
-![Lucia Section](./public/readme/lucia.png)
+![Lucia Section](./public/readme/lucia.webp)
 
 ### 🌅 Postcard Animation
 
-![Postcard Section](./public/readme/postcard.png)
+![Postcard Section](./public/readme/postcard.webp)
 
 ### 🎞️ Final Outro Scroll Video
 
-![Outro Section](./public/readme/final.png)
+![Outro Section](./public/readme/final.webp)
 
 ---
 
