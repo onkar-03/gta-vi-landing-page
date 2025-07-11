@@ -11,7 +11,7 @@ Built entirely with frontend technologies, it showcases how modern animation and
 
 ## 🚀 Live Demo
 
-[👉 View Demo (Link)](https://your-live-url.com)
+[👉 View Demo (Link)](https://gta-vi-landing-page-three.vercel.app/)
 
 ---
 
