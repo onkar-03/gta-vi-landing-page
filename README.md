@@ -65,9 +65,13 @@ Built entirely with frontend technologies, it showcases how modern animation and
 
 ![Postcard Section](./public/readme/postcard.webp)
 
-### 🎞️ Final Outro Scroll Video
+### 🎞️ Final Scroll Animation (Outro)
 
 ![Outro Section](./public/readme/final.webp)
+
+### 🎞️ Outro Section Overview
+
+![Outro Section](./public/readme/outro.webp)
 
 ---
 
@@ -127,4 +131,4 @@ To run this project on your local machine:
    ```
 
 4. **Open in your browser**
-   Navigate to `http://localhost:3000` (or the port shown in your terminal) to view the project.
+   Navigate to the port shown in your terminal to view the project.
